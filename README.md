@@ -6,3 +6,10 @@ Top view of pcb
 
 Bottom view of pcb
 ![ATmega328p Bottom](https://github.com/Harveyn4444/Atmega328P-AU-Breakout-Board/assets/73143248/5165a0c2-47dc-459b-bbdc-a561043b1fbd)
+
+
+
+How to code
+-need to download bootloader
+-upload bootloader using another arduino 
+-upload example skeych from serial port
