@@ -10,6 +10,7 @@ A breakout board using the Atmega328p-au microcontroller
 
 
 How to code
+
 -need to download bootloader
 -upload bootloader using another arduino 
 -upload example skeych from serial port
